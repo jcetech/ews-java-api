@@ -139,7 +139,7 @@
                 <repository>
                     <id>dev106-nexus</id>
                     <name>dev106-nexus</name>
-                    <url>http://192.168.8.106:8081/repository/maven-releases/</url>
+                    <url>http://10.9.8.162:8081/repository/maven-releases/</url>
                 </repository>
             </distributionManagement>
             <repositories>
